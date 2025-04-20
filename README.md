@@ -1,16 +1,38 @@
-## Hi there 👋
+## Yooo what's up it's aarav 🤙
 
-<!--
-**H4CKL0RD/H4CKL0RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
 
-Here are some ideas to get you started:
+                                      $$\       
+                                      $$ |      
+ $$$$$$\         $$$$$$$\        $$$$$$$ |      
+ \____$$\       $$  _____|      $$  __$$ |      
+ $$$$$$$ |      \$$$$$$\        $$ /  $$ |      
+$$  __$$ |       \____$$\       $$ |  $$ |      
+\$$$$$$$ |      $$$$$$$  |      \$$$$$$$ |      
+ \_______|      \_______/        \_______|      
+                                                
+                                                
+                                                
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+### 🚀 Skilled In
+- **Python** 🐍 (Automation, Scripting, Data Analysis)
+- **SQL** 🗃️ (Database Management)
+
+### 🌱 Actively Learning
+- **Web Development** 🌐 (TypeScript & JavaScript)
+- **Frontend Frameworks** ⚛️ (React, Next.js)
+
+### 📫 How to reach me
+- **Website:** [aarav.dev](https://aarav.dev) 🌍
+
+```python
+while True:
+    keep_coding = True
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=H4CKL0RD.H4CKL0RD)
+```
+
+
