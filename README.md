@@ -14,7 +14,7 @@ $$  __$$ |       \____$$\       $$ |  $$ |
 
 ### 🚀 Skilled In
 - **Python** 🐍 
-- **Java" ☕ 
+- **Java** ☕ 
 
 ### 🌱 Actively Learning
 - **Web Development** 🌐 (TypeScript & JavaScript)
