@@ -22,6 +22,7 @@ $$  __$$ |       \____$$\       $$ |  $$ |
 
 ### 📫 How to reach me
 - **Website:** *inactive as of right now* 🌍
+- **Shoot me a dm!:** asditiy on discord
 
 ```python
 while True:
